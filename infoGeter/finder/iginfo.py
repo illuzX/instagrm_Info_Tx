@@ -23,7 +23,7 @@ headers1_1 = {
 
 def AskUser(session):
     try :
-        command = input (LB+"Zxll "+R+"/ "+LB+"USERNAME "+R+"> "+W)
+        command = input (LB+"UzX "+R+"/ "+LB+"USERNAME "+R+"> "+W)
         if command.lower() == "help" : 
             print (f'{dict["Help"]}')	
             AskUser()
