@@ -1,6 +1,6 @@
-from PersonalLib.Shadow import *
-from PersonalLib.Fast import *
-from PersonalLib.More import *
+from remoteuser.Shadow import *
+from remoteuser.Fast import *
+from remoteuser.More import *
 
 try:
 	from bs4 import BeautifulSoup
